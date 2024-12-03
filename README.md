@@ -1,7 +1,7 @@
 # Binary-Classification-with-a-Bank-Churn-Dataset.ipynb
 Task is to predict whether a customer continues with their account or closes it (e.g., churns).We need to predict the probability of Exited.
 ## About the Data Set
-1.Customer ID: A unique identifier for each customer
+1.Customer ID: A unique identifier for each customer  
 2.Surname: The customer's surname or last name
 3.Credit Score: A numerical value representing the customer's credit score
 4.Geography: The country where the customer resides (France, Spain or Germany)
