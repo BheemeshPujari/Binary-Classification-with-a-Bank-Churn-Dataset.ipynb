@@ -14,3 +14,6 @@ Task is to predict whether a customer continues with their account or closes it 
 11.IsActiveMember: Whether the customer is an active member (1 = yes, 0 = no)  
 12.EstimatedSalary: The estimated salary of the customer  
 13.Exited: Whether the customer has churned (1 = yes, 0 = no)  
+
+## Evaluation Metric
+Evaluation is done based on the area under the ROC curve between the predicted probability and the observed target.
